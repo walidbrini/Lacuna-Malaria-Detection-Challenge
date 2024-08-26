@@ -1,0 +1,15 @@
+# Ignore image files in the 'train' folder
+train/*.png
+train/*.jpg
+train/*.jpeg
+train/*.gif
+train/*.bmp
+train/*.tiff
+
+# Ignore image files in the 'test' folder
+test/*.png
+test/*.jpg
+test/*.jpeg
+test/*.gif
+test/*.bmp
+test/*.tiff
