@@ -13,3 +13,7 @@ test/*.jpeg
 test/*.gif
 test/*.bmp
 test/*.tiff
+
+images/*
+labels/*
+runs/*

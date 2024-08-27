@@ -1,0 +1,11 @@
+
+path: /home/walid/Desktop/OpenCv/Lacuna-Malaria-Detection-Challenge
+
+train: images/train
+val: images/val
+
+
+names:
+  0: NEG
+  1: Trophozoite
+  2: WBC
